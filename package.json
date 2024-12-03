@@ -1,12 +1,12 @@
 {
-      "name": "tech-courses",
-      "version": "1.0.0",
-      "description": "Antora project for tech courses",
-      "scripts": {
-        "build": "npx antora antora-playbook.yml"
-      },
-      "dependencies": {
-        "@antora/cli": "^3.0.0",
-        "@antora/site-generator-default": "^3.0.0"
-      }
-    }
+  "name": "tech-courses",
+  "version": "1.0.0",
+  "description": "Antora project for tech courses",
+  "scripts": {
+    "build": "npx antora antora-playbook.yml"
+  },
+  "dependencies": {
+    "@antora/cli": "^3.0.0",
+    "@antora/site-generator-default": "^3.0.0"
+  }
+}
