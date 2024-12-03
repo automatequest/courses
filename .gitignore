@@ -4,6 +4,7 @@ node_modules/
 # Antora build artifacts
 public/
 cache/
+build/
 
 # Miscellaneous
 .DS_Store
