@@ -1,0 +1,9 @@
+= Tech Courses
+    :toc: left
+
+    Welcome to the Tech Courses documentation.
+
+    == Courses
+
+    * xref:course1.adoc[Course 1]
+    * xref:course2.adoc[Course 2]

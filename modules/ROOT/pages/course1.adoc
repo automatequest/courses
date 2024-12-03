@@ -1,0 +1,4 @@
+= Course 1
+    :toc: left
+
+    This is the content for Course 1.

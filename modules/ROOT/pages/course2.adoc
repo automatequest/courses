@@ -1,0 +1,4 @@
+= Course 2
+    :toc: left
+
+    This is the content for Course 2.

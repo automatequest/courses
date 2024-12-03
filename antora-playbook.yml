@@ -1,0 +1,11 @@
+site:
+      title: Tech Courses
+    content:
+      sources:
+        - url: .
+          branches: main
+    ui:
+      bundle:
+        url: ./ui-bundle.zip
+    runtime:
+      cache_dir: ./cache

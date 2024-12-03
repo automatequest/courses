@@ -1,0 +1,3 @@
+[build]
+      command = "antora antora-playbook.yml"
+      publish = "public"
