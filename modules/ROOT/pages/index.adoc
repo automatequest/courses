@@ -1,7 +1,7 @@
 = Tech Courses
 :toc: left
 
-Welcome to the Tech Courses documentation.
+Ola and Jazz having FUN!
 
 == Courses
 

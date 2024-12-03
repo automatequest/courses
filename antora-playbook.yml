@@ -1,5 +1,6 @@
 site:
   title: Tech Courses
+  start_page: tech-courses:index
 
 content:
   sources:
