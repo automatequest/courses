@@ -9,7 +9,6 @@ content:
 ui:
   bundle:
     url: https://gitcdn.link/repo/antora/default-ui/master/build/ui.bundle.zip
-  start_path: index.adoc
 
 runtime:
   cache_dir: ./cache
