@@ -1,8 +1,8 @@
 site:
-      title: Tech Courses
-    content:
-      sources:
-        - url: .
-          branches: main
-    runtime:
-      cache_dir: ./cache
+  title: Tech Courses
+content:
+  sources:
+    - url: .
+      branches: main
+runtime:
+  cache_dir: ./cache
