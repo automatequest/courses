@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+
+# Antora build artifacts
+public/
+cache/
+
+# Miscellaneous
+.DS_Store
+*.log
