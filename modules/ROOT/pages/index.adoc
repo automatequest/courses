@@ -1,9 +1,9 @@
 = Tech Courses
-    :toc: left
+:toc: left
 
-    Welcome to the Tech Courses documentation.
+Welcome to the Tech Courses documentation.
 
-    == Courses
+== Courses
 
-    * xref:course1.adoc[Course 1]
-    * xref:course2.adoc[Course 2]
+* xref:course1.adoc[Course 1]
+* xref:course2.adoc[Course 2]

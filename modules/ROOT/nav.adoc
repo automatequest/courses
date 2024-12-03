@@ -1,3 +1,3 @@
-* xref:modules/ROOT/pages/index.adoc[Home]
-    * xref:modules/ROOT/pages/course1.adoc[Course 1]
-    * xref:modules/ROOT/pages/course2.adoc[Course 2]
+* xref:index.adoc[Home]
+** xref:course1.adoc[Course 1]
+** xref:course2.adoc[Course 2]
